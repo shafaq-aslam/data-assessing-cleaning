@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:10B981&height=200&section=header&text=Data%20Assessing%20%26%20Cleaning%20🧹📊&fontSize=40&fontColor=ffffff" alt="Data Assessing & Cleaning Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=200&section=header&text=Data%20Assessing%20%26%20Cleaning%20🧹📊&fontSize=40&fontColor=ffffff" alt="Data Assessing and Cleaning Banner"/>
 </p>
 
 <h2 align="center">🧼 Transform Raw Data Into Reliable Insights</h2>
